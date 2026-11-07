@@ -1,0 +1,7 @@
+[project]
+name = "hijri-py-solar-declination-eq"
+version = "1.0.0"
+description = "Solar Declination & Equation of Time (Mu'adalat Al-Zaman) Ephemeris (حاسبة معادلة الزمان وميل الشمس السماوي اليومي)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
